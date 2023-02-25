@@ -1,0 +1,39 @@
+.btnss{
+    text-transform: uppercase;
+    vertical-align: bottom;
+    border: 0;
+    
+
+width:100%;
+    cursor:pointer!important;
+    box-shadow: none!important;
+    /* line-height: 1.5; */
+}
+.contain{
+
+    
+     margin-top:3%;
+    text-align:left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+     background-image: url("./images/bavv.jpg");
+}
+.const{
+    max-width:500px;
+    margin-top:5%;
+}
+@media only screen and (max-width:500px){
+.fon1{
+    display:none;
+}
+.fon{
+    display:inline-block!important;
+}
+
+
+}
+.fon{
+    display:none;
+}

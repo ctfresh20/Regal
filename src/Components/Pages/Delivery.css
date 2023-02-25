@@ -1,0 +1,10 @@
+.boo:hover{
+   text-shadow:0px 2px 30px #2395ffec;border-radius: 10px !important;
+   transform:scale(1.1);
+  
+}
+.boo{
+    transition: 0.9s;
+        transition-delay:  0.4s;
+    cursor:pointer;
+}

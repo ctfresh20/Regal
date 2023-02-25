@@ -1,0 +1,32 @@
+.sunday{
+    font-size: 25px;
+    font-weight: 600;
+    text-Align: center;
+    color: black;
+}
+.super{
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+.limited{
+    font-weight: 600;
+    font-size: 19px;
+     color:black;
+}
+.please{
+    font-size: 18px;
+    font-weight: 450;
+    color: black;
+}
+.containers{
+    max-width: 1100px!important;
+    margin: auto;
+
+}
+.hover-zooms:hover{
+    border: 0.5px dotted grey !important;
+    box-shadow: 0px 00px 100px rgb(201, 173, 173);
+    
+
+}

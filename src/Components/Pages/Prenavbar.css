@@ -1,0 +1,149 @@
+.btns {
+    text-transform: uppercase;
+    vertical-align: bottom;
+    border: 0;
+    color:#0068B5;
+    /* box-shadow: 0 4px 9px -4px rgb(0 0 0 / 35%); */
+    font-weight: 600;
+    /* padding: 0.625rem 1.5rem 0.5rem 1.5rem; */
+    font-size: .90rem;
+    cursor:pointer;
+    box-shadow: none!important;
+    /* line-height: 1.5; */
+}
+.sele{
+    display:none;
+}
+@media only screen and (max-width:600px){
+
+    .sele{
+      display:block;
+    }
+    .sele1{
+        display:none!important;
+    }
+}
+.contai{
+    background:round;
+    background-repeat: round;
+    width:100%;
+     height:max-content;
+}
+.ico:hover{
+    color:#3193F4;
+    cursor:pointer;
+}
+.ico{
+    color:white;
+}
+@media only screen and (max-width:991px){
+#otu{
+    display: none;
+}
+#ot{
+        display: block!important;
+    }
+}
+#ot{
+    display: none;
+}
+@media only screen and (max-width:700px){
+    #fon{
+        display:none!important;
+        font-size: 1em;
+    }
+    #fon1{
+        display:inline-block !important;
+    }
+    }
+    
+#fon1{
+    display: none;
+}
+.butto{
+    color:white!important;
+}
+.butto:hover{
+     color:#3193F4!important;
+
+}
+.rows{
+    background-color:#0068B5;
+    width:100%;
+    margin-left: unset!important;
+}
+.rows1{
+    background-color:#0068B5!important;
+
+}
+.rows1:hover{
+    background-color: white!important;
+}
+
+.rows2:hover{
+    background-color: white!important;
+}
+.rows3:hover{
+    background-color: white!important;
+}.rows4:hover{
+    background-color: white!important;
+}
+.rows5:hover{
+    background-color: white!important;
+}
+.rows6:hover{
+    background-color: white!important;
+}
+.dropdown:hover .dropdown-menu {
+    display: block !important;
+  
+    left:0px;
+  
+  }
+  .scroll {
+    max-height: 400px;
+   
+    margin-top: 1%;
+}
+#btnss{
+    text-transform: uppercase;
+    vertical-align: bottom;
+    border: 0;
+    
+    /* box-shadow: 0 4px 9px -4px rgb(0 0 0 / 35%); */
+    font-weight: 600;
+    /* padding: 0.625rem 1.5rem 0.5rem 1.5rem; */
+    font-size: .90rem;
+    cursor:pointer !important;
+    box-shadow: none !important;
+    /* line-height: 1.5; */
+}
+#cars{
+    display:none !important;
+}
+
+@media only screen and (max-width:800px){
+    #carss{
+        display:none !important;
+
+    }
+    #cars{
+        display:block !important;
+        
+    }
+}
+
+.sticky-top{
+    top: 50px;
+}
+
+
+#buttonnn{
+    background-color: #024E8C;
+    color: white;
+    box-shadow: none!important;
+    border:none!important;
+}
+#buttonnn:hover{
+    background-color:#0068b5;
+}
